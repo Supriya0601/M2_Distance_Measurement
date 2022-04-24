@@ -27,7 +27,10 @@ Manual distance measuring is always done at the expense of human error.
 Transmit sound waves toward a target and will determine its distance by measuring the time it took.
 
 ## APPLICATION
-The device can be used in many different fields and categories like distance calculation in construction field, robots, car sensor to avoid obstacles and many other applications.
+The device can be used in many different fields and categories like :
+* distance calculation in construction field
+* robots 
+* car sensor to avoid obstacles
 
 # TABLE
 ## HIGH LEVEL TEST PLAN
