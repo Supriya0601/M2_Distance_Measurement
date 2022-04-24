@@ -8,13 +8,13 @@ The source code is to be compiled in VS CODE with AVR compiler. This DISTANCE FI
 
 ## COMPONENTS REQUIRED
 Hardware:
-* ATMEGA328P,
-* Power supply (5v),
-* AVR-ISP PROGRAMMER, 
-* JHD_162ALCD (16x2LCD), 
-* 1000uF capacitor,
-* 10K resistor (2 pieces),
-* HC-SR04 sensor.
+* ATMEGA328P
+* Power supply (5v)
+* AVR-ISP PROGRAMMER
+* JHD_162ALCD (16x2LCD)
+* 1000uF capacitor
+* 10K resistor (2 pieces)
+* HC-SR04 sensor
 
 ## 4'W and 1'H
 
