@@ -14,5 +14,5 @@
 | Test ID | Description | I/P|  O/P|
 | --- | --- | --- | ---- |
 | L_01 |  When switch is close | switch closed | No LCD Displays |
-| L_02| When Potentiometer is set at 0|0v |0 distance|
+| L_02| When Voltage is set at 0|0v |0 distance|
 
