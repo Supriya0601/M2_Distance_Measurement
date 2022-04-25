@@ -47,6 +47,7 @@ The device can be used in many different fields and categories like :
 | HLR_01| HC-SR04 | Technical|
 | HLR_02| Atmega 328P for execution | Technical|
 | HLR_03| AVR ISP PROGRAMMER| Technical|
+| HLR_04| Atmega 328P Microcontroller | Hardware|
 
 ## LOW LEVEL REQUIREMENT
 
