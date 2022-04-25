@@ -40,18 +40,19 @@ The device can be used in many different fields and categories like :
 * car sensor to avoid obstacles
 
 # TABLE
-## HIGH LEVEL TEST PLAN
+## HIGH LEVEL REQUIREMENT
 
-| Test ID | Description | Exp I/P| Exp O/P|Test case
+| ID | Description | Category
 | --- | --- | --- | ---- |-----|
-| T_01 | LCD Message Display |switch on| "HELLO WORLD" |Pass|
-| T_02| Universal Asynchronous Receiver Transmitter(USART) communication| data  | data |Pass|
-| T_03 | Pulse With Modulation in sensor |in static|  successfully added |Pass|
-| T_04| Voltage changes |5v| distance(173in,441cm)|Pass|
+| HLR_01 | HC-SR04 |Technical|
+| HLR_02| Atmega 328P|Technical|
+| HLR_03 | AVR ISP PROGRAMMER |Technical|
 
-## LOW LEVEL TEST PLAN
+## LOW LEVEL REQUIREMENT
 
-| Test ID | Description | I/P|  O/P|
+| ID | Description | Category|
 | --- | --- | --- | ---- |
-| L_01 |  When switch is close | switch closed | No LCD Displays |
-| L_02| When Potentiometer is set at 0|0v |0 distance|
+| LR_01 |Power supply (5v)| Hardware|
+| LR_02|JHD_162ALCD (16x2LCD) | Hardware |
+| LR_03|Voltmeter| Hardware|
+| LR_04| HC-SR04 | Hardware|
