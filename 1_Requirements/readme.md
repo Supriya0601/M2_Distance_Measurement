@@ -44,7 +44,7 @@ The device can be used in many different fields and categories like :
 
 | ID | Description | Category |
 | --- | --- | --- | ---- |-----|
-| HLR_01 | HC-SR04 | Technical |
+| HLR_01 | HC-SR04 | Technical|
 | HLR_02| Atmega 328P for execution | Technical |
 | HLR_03 | AVR ISP PROGRAMMER | Technical |
 
@@ -53,6 +53,6 @@ The device can be used in many different fields and categories like :
 | ID | Description | Category|
 | --- | --- | --- | ---- |
 | LR_01 |Power supply (5v)| Hardware|
-| LR_02|JHD_162ALCD (16x2LCD) | Hardware |
+| LR_02|JHD_162ALCD (16x2LCD)| Hardware |
 | LR_03|Voltmeter| Hardware|
 | LR_04| HC-SR04 | Hardware|
